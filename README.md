@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 - 🎓 Studying **Artificial Intelligence** at college  
 - 💻 Interested in **Web Development, Desktop Applications, and AI**  
-- 📚 Currently learning **C++, Java, Python, C#**  
+- 📚 Currently learning **C++,  
 - 🏗️ Always working on improving my skills and building projects  
 
 ---
