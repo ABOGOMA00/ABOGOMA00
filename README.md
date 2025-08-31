@@ -35,5 +35,5 @@
 
 ## 📬 Contact Me
 - 📧 Email: mahmoodgoma9@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐙 GitHub: [MahmoudGoma](https://github.com/MahmoudGoma)  
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mahmoud-goma-285825336/)  
+- 🐙 GitHub: [MahmoudGoma](https://github.com/ABOGOMA00/ABOGOMA00)  
