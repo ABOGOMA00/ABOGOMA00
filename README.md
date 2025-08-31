@@ -22,8 +22,8 @@
 
 ## 💻 Featured Projects 
 
-- 🎮 [Rock - Paper - Scissors (C++)](https://github.com/MahmoudGoma/rock-paper-scissors)  
-- ➗ [Math Quiz Game (C++)](https://github.com/MahmoudGoma/math-quiz-game)  
+- 🎮 [Rock - Paper - Scissors (C++)](https://github.com/ABOGOMA00/Rock-paper-seicessor--project1/blob/main/main.cpp)  
+- ➗ [Math Quiz Game (C++)](https://github.com/ABOGOMA00/math_Quiz/blob/main/math_quiez.cpp)  
 
 ---
 
