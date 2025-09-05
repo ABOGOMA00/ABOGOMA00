@@ -1,39 +1,41 @@
-# 👋 Hi, I'm Mahmoud Mohamed Goma  
+## Hi, I'm Mahmoud Mohamed Goma! 👋
 
-🚀 **AI Student & Future Full-Stack Developer**  
-💡 Passionate about **Programming, Problem Solving, and Building Real Projects**  
-
----
-
-## 🧑‍💻 About Me
-- 🎓 Studying **Artificial Intelligence** at college  
-- 💻 Interested in **Web Development, Desktop Applications, and AI**  
-- 📚 Currently learning **C++,  
-- 🏗️ Always working on improving my skills and building projects  
+**AI Student** & **Future Full-Stack Developer** passionate about building projects and solving real-world problems.
 
 ---
 
-## 🛠️ Skills & Tools
+### 🧐 About Me
+I’m currently pursuing studies in **Artificial Intelligence**, learning **C++** and beyond.  
+I’m always keen to level up my skills in web development, desktop applications, and AI.
+
+---
+
+### 🔨 Technologies & Tools
+
 - **Languages:** C++, Java, Python, C#, HTML, CSS, SQL  
-- **Concepts:** OOP, Algorithms, Data Structures, Databases  
-- **Tools:** Visual Studio, MySQL, Git & GitHub  
+- **Concepts:** OOP, Algorithms, Data Structures, Database Design  
+- **Tools:** Visual Studio, MySQL, Git & GitHub
 
 ---
 
-## 💻 Featured Projects 
+### 🛠️ Featured Projects
 
-- 🎮 [Rock - Paper - Scissors (C++)](https://github.com/ABOGOMA00/Rock-paper-seicessor--project1/blob/main/main.cpp)  
-- ➗ [Math Quiz Game (C++)](https://github.com/ABOGOMA00/math_Quiz/blob/main/math_quiez.cpp)  
-
----
-
-## 📊 GitHub Stats
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudGoma&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=MahmoudGoma&theme=radical)  
+🚀 Coming Soon... (I’ll be adding my projects here!)
 
 ---
 
-## 📬 Contact Me
-- 📧 Email: mahmoodgoma9@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mahmoud-goma-285825336/)  
-- 🐙 GitHub: [MahmoudGoma](https://github.com/ABOGOMA00/ABOGOMA00)  
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudGoma&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudGoma&layout=compact)
+
+---
+
+### 📫 Contact Me
+- **Email:** [mahmooodgoma9@gmail.com](mailto:mahmooodgoma9@gmail.com)  
+- **LinkedIn:** [Your LinkedIn](#)  
+- **GitHub:** [@MahmoudGoma](https://github.com/MahmoudGoma)
+
+---
+
+*(Feel free to ping me if you’d like to collaborate on AI or web projects!)*
