@@ -32,7 +32,8 @@ Currently, I am working on small projects using **C++, C#, HTML, SQL, and Python
 
 ### 🛠️ My Projects
 - 🎯 [Math Quiz](https://github.com/ABOGOMA00/math_Quiz)  
-- 🎮 [Rock Paper Scissors](https://github.com/ABOGOMA00/Rock-paper-seicessor--project1)  
+- 🎮 [Rock Paper Scissors](https://github.com/ABOGOMA00/Rock-paper-seicessor--project1)
+- ⚖️ [creat my own library ](https://github.com/ABOGOMA00/my_own_library.git)
 
 ---
 
