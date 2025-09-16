@@ -20,5 +20,5 @@
 ---
 
 ## 🌐 Connect with Me  
-- [LinkedIn](https://linkedin.com/in/your-link)
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-goma-285825336/)
 - [GitHub](https://github.com/YourUserName)
