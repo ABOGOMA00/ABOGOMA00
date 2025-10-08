@@ -1,24 +1,43 @@
-# 👋 Hi there, I'm Mahmoud  
+# 👋 Hey, I'm Mahmoud Goma
 
-🎓 **AI Student & Passionate Programmer**  
-💻 Currently focusing on **C++** & **Problem Solving**  
-📱 Preparing to dive into **Flutter** to become a **Mobile Developer**  
-🚀 Building real-world apps and sharing my journey here  
+🎓 AI Student | 💻 C++ & Python Developer | ⚙️ Building Projects to Learn and Grow
 
 ---
 
-## 🛠️ Technologies & Tools  
-- 📝 **C++** (Foundations & OOP)  
-- 💡 **Problem Solving & Algorithms**  
-- 📱 **Soon: Flutter Mobile Development**  
+## 🚀 About Me
+- 🎯 Passionate about **software development** and **problem solving**
+- 💡 I love learning how things work under the hood — from **C++ fundamentals** to **AI concepts**
+- 🧠 Currently studying **Artificial Intelligence** at college
+- 💬 Always improving my **English**, coding skills, and teamwork mindset
+- ⚽ I play football regularly and believe in discipline — both in life and code!
 
 ---
 
-## 📈 GitHub Stats  
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)
+## 🛠️ Tech Stack
+- **Languages:** C++, Python, Java, HTML, CSS, SQL  
+- **Tools:** Git, MySQL, VS Code, PyCharm  
+- **Concepts:** OOP, File Handling, DBMS, Flask, Algorithms  
 
 ---
 
-## 🌐 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-goma-285825336/)
-- [GitHub](https://github.com/YourUserName)
+## 📊 GitHub Stats
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABOGOMA00&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABOGOMA00&layout=compact&theme=tokyonight)
+
+---
+
+## 💼 Projects
+🔹 [Bank System in C++](https://github.com/ABOGOMA00/Bank-System-CPP)  
+🔹 [Rock Paper Scissors Game](https://github.com/ABOGOMA00/Rock-paper-seicessor-project1)  
+*(More coming soon...)*
+
+---
+
+## 🌍 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/mahmoud-mohamed-gomaa-285825336/)  
+[GitHub](https://github.com/ABOGOMA00)
+
+---
+
+⭐ *"Code, learn, repeat — that’s how growth happens."*
