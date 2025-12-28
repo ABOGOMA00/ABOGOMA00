@@ -1,22 +1,44 @@
-# 👋 Hey, I'm Mahmoud Goma
+# ⚡ Mahmoud Goma  
+### AI Student | Flutter Dev in Progress | C++ Lover  
 
-🎓 AI Student | 💻 C++ & Python Developer | ⚙️ Building Projects to Learn and Grow
+> *“I don’t just write code — I build skills.”*
 
 ---
 
 ## 🚀 About Me
-- 🎯 Passionate about **software development** and **problem solving**
-- 💡 I love learning how things work under the hood — from **C++ fundamentals** to **AI concepts**
-- 🧠 Currently studying **Artificial Intelligence** at college
-- 💬 Always improving my **English**, coding skills, and teamwork mindset
-- ⚽ I play football regularly and believe in discipline — both in life and code!
+👨‍💻 AI student who enjoys **building things from scratch**  
+🧠 Obsessed with **problem solving & clean logic**  
+📱 Currently learning **Flutter & Dart** to build real mobile apps  
+💻 Improving **C++** deeply (OOP, logic, structure)  
+⚽ Football mindset: discipline, consistency, teamwork  
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** C++, Python, Java, HTML, CSS, SQL  
-- **Tools:** Git, MySQL, VS Code, PyCharm  
-- **Concepts:** OOP, File Handling, DBMS, Flask, Algorithms  
+## 🧠 Tech Stack
+**Languages:**  
+`C++` • `Python` • `Java` • `Dart` • `HTML` • `CSS` • `SQL`
+
+**Frameworks & Tools:**  
+`Flutter` • `Flask` • `Git` • `GitHub` • `MySQL` • `VS Code`
+
+**Concepts I Work With:**  
+`OOP` • `Algorithms` • `Data Structures` • `DBMS` • `Problem Solving`
+
+---
+
+## 🚧 Currently Working On
+🔥 Learning **Flutter & Dart**  
+🛠️ Building real-world projects  
+📈 Leveling up problem-solving & clean code  
+
+> 💡 *Projects will be added very soon… stay tuned.*
+
+---
+
+## 📂 Projects
+🔹 [Bank System – C++](https://github.com/ABOGOMA00/Bank-System-CPP)  
+🔹 [Rock Paper Scissors Game](https://github.com/ABOGOMA00/Rock-paper-seicessor-project1)  
+🔹 **More coming soon 🚀**
 
 ---
 
@@ -27,17 +49,10 @@
 
 ---
 
-## 💼 Projects
-🔹 [Bank System in C++](https://github.com/ABOGOMA00/Bank-System-CPP)  
-🔹 [Rock Paper Scissors Game](https://github.com/ABOGOMA00/Rock-paper-seicessor-project1)  
-*(More coming soon...)*
+## 🌍 Let’s Connect
+🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-mohamed-gomaa-285825336/)  
+🐙 [GitHub](https://github.com/ABOGOMA00)
 
 ---
 
-## 🌍 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/mahmoud-mohamed-gomaa-285825336/)  
-[GitHub](https://github.com/ABOGOMA00)
-
----
-
-⭐ *"Code, learn, repeat — that’s how growth happens."*
+🔥 **"Stay consistent. Stay hungry. Build every day."**
