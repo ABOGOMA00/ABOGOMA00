@@ -1,7 +1,7 @@
-<h1 align="center">⚡ Mahmoud Mohammed Gomaa ⚡</h1>
+<h1 align="center">⚡ Mahmoud Goma ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student;Flutter+Developer+in+Progress;C%2B%2B+Problem+Solver;Chess+Lover+%E2%99%9F%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student;Flutter+Developer+in+Progress;C%2B%2B+Problem+Solver;Chess+Lover+♟️" />
 </p>
 
 ---
@@ -17,6 +17,7 @@
 ---
 
 ## 🧠 Tech Stack
+
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,14 +28,14 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚧 Currently Working On
 🚀 Learning **Flutter & Dart**  
 🧠 Practicing **Algorithms & Problem Solving**  
-🧩 Building real projects step by step  
+🧩 Building real-world projects step by step  
 
 ---
 
@@ -46,13 +47,18 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABOGOMA00&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABOGOMA00&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABOGOMA00&layout=compact&theme=tokyonight" />
-</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ABOGOMA00&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABOGOMA00&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABOGOMA00&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
@@ -69,4 +75,4 @@
 
 ---
 
-🔥 *"Discipline beats motivation. Every. Single. Day."*
+🔥 **"Discipline beats motivation. Every single day."**
