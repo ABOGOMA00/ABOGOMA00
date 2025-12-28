@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Mahmoud Goma ⚡</h1>
+<h1 align="center">⚡ Mahmoud Mohammed Gomaa ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student;Flutter+Developer+in+Progress;C%2B%2B+Problem+Solver;Chess+Lover+♟️" />
@@ -48,17 +48,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ABOGOMA00&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABOGOMA00&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABOGOMA00&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABOGOMA00&theme=tokyonight" />
+</p>
 
 ---
 
