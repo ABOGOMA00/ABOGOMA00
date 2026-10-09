@@ -1,70 +1,52 @@
-<h1 align="center">⚡ Mahmoud Mohammed Gomaa ⚡</h1>
+# ⚡ Mahmoud Mohammed Gomaa
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student;Flutter+Developer+in+Progress;C%2B%2B+Problem+Solver;Chess+Lover+♟️" />
-</p>
+\<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student;Aspiring+.NET+Backend+Developer;C%2B%2B+Problem+Solver;Data+Structures+Learner](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=AI+Student;Aspiring+.NET+Backend+Developer;C%2B%2B+Problem+Solver;Data+Structures+Learner)" /> \</p>
 
 ---
 
 ## 🚀 About Me
-👨‍💻 AI student who loves **building things from scratch**  
-🧠 Passionate about **problem solving & clean logic**  
-📱 Currently learning **Flutter & Dart**  
-💻 Improving **C++** deeply (OOP, structure, performance)  
-♟️ Chess player — strategy, focus, patience  
-⚽ Football mindset: discipline & consistency  
+
+- 🎓 Artificial Intelligence student.
+- 💻 Building strong programming fundamentals with C++.
+- 🧠 Learning Data Structures, Algorithms, and Problem Solving.
+- ⚙️ Interested in Backend Development with C# and .NET.
+- 🚀 Focused on building practical projects and improving every day.
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Languages
 
-### 🛠 Tools & Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- C++
+- Python
+- Java
 
----
+### Core Concepts
 
-## 🚧 Currently Working On
-🚀 Learning **Flutter & Dart**  
-🧠 Practicing **Algorithms & Problem Solving**  
-🧩 Building real-world projects step by step  
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Problem Solving
+
+### Tools
+
+- Git & GitHub
+- Visual Studio / VS Code
 
 ---
 
 ## 📂 Projects
-🔹 [Bank System – C++](https://github.com/ABOGOMA00/Bank-System-CPP)  
-🔹 [Rock Paper Scissors Game](https://github.com/ABOGOMA00/Rock-paper-seicessor-project1)  
-🔹 **More projects coming soon... 🔥**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABOGOMA00&theme=tokyonight" />
-</p>
-
----
-
-## ♟️ Fun Facts
-- I play **Chess** to sharpen my thinking  
-- I believe **coding is strategy, not typing**  
-- Every day = new level unlocked 🔓  
+- [Bank System – C++](https://github.com/ABOGOMA00/Bank-System-CPP)
+- [Rock Paper Scissors Game](https://github.com/ABOGOMA00/Rock-paper-seicessor-project1)
 
 ---
 
 ## 🌍 Connect With Me
-🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-mohamed-gomaa-285825336/)  
-🐙 [GitHub](https://github.com/ABOGOMA00)
+
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-mohamed-gomaa-285825336/)
+- [GitHub](https://github.com/ABOGOMA00)
 
 ---
 
-🔥 **"Discipline beats motivation. Every single day."**
+> "Discipline beats motivation. Every single day."
